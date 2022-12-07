@@ -49,19 +49,19 @@ a {
 
 .Home_footerbg__XmJ88 {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/footer.663488b0.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/footer.1d0b52d2.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 520px;
-	height: 145px;
+	width: 720px;
+	height: 700px;
 	position: absolute;
-	left: 200px;
-	top: 560px;
+	left: 125px;
+	top: -120px;
 }
 
 .Home_blank__VvP8P {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/footer.663488b0.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/footer.1d0b52d2.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 520px;
@@ -189,14 +189,14 @@ a {
 
 .Home_banner__WnS5R {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner.a6508acc.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner.943c2e0b.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 420px;
-	height: 142px;
+	width: 700px;
+	height: 500px;
 	position: absolute;
-	left: 250px;
-	top: 150px;
+	left: -500px;
+	top: -150px;
 }
 
 .Home_banner2__nEGJg {
@@ -207,8 +207,8 @@ a {
 	width: 250px;
 	height: 70px;
 	position: absolute;
-	left: 335px;
-	top: 310px;
+	left: 900px;
+	top: 40px;
 }
 
 .Home_connectBtn__q4_OB {
@@ -261,7 +261,7 @@ a {
 
 .Home_loading__IsZ5F {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/loading.fc807d4d.gif);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/loading.dd6ff05e.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 300px;
@@ -273,7 +273,7 @@ a {
 
 .Home_getLoading__Ml8Nf {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.fc807d4d.gif);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.dd6ff05e.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 280px;
@@ -285,7 +285,7 @@ a {
 
 .Home_sendLoading__Zkd01 {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.fc807d4d.gif);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.dd6ff05e.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 250px;
@@ -758,7 +758,7 @@ a {
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 90px;
-	height: 70px;
+	height: 90px;
 	position: absolute;
 	left: 380px;
 	top: 600px;
